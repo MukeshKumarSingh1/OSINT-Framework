@@ -1,5 +1,4 @@
-# OSINT-Project
-OSINT Project
+OSINT Framework
 	
 
 The project is based on a real life incident (long) while a big group of corrupt and criminals gang, started using their power, connection and resources (including the government resources) to isolate, manipulate, control and backstab an innocent to conduct a hate crime in a foreign land.
